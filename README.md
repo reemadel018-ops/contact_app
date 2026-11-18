@@ -8,6 +8,12 @@ The app focuses on a smooth and friendly experience: a branded splash screen, a 
 
 ---
 
+## 🎬 Demo
+
+> 📹 **[Watch the demo video](https://www.loom.com/share/d9472708c37e4aa4ab3289b224418708)**
+
+---
+
 ## ✨ Features
 
 | | Feature | Description |
@@ -119,7 +125,6 @@ dart run flutter_native_splash:create
 # 4. Run the app
 flutter run
 ```
-
 
 ---
 
